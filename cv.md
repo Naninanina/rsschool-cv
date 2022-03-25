@@ -11,6 +11,9 @@
 **About myself:**
 
 I am 20 years old. I am a student at the St. Petersburg Electrotechnical University "LETI" at the Faculty of Computer Technologies and Informatics. I strive to learn and discover new things. That is why I am a student of RS school.
+
+At the same time, I try to finish what I started. Evidence of this is the completed music and art schools.
+> Fight and seek, find and never give up!
 ***
 **Skills and Profiency:**
 * HTML, CSS
@@ -42,5 +45,20 @@ string replaceSubString(string arrstr[], int numStr, string subStr, string repla
 	return newString;
 }
 ```
+***
+**Learning project:**
 
+A website that I created to practice html and css.
 
+* [Website](https://naninanina.github.io/Painting-1920-1930/)
+* [GitGub repository](https://github.com/Naninanina/Painting-1920-1930)
+***
+**Education:**
+
+* Second year of the Magical Electrotechnical (alias ETU "LETI")
+	+ Informatics and computer engineering
+***
+**Languages:**
+
+* Russian — native speaker
+* English — A2
