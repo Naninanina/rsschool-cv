@@ -1,3 +1,4 @@
+![610478039](https://user-images.githubusercontent.com/57724541/160100611-9d4fd009-b95f-4052-aa9b-1be65d8acee1.jpeg) 
 # Nina Morozova
 **Junior Frontend developer**
 ***
