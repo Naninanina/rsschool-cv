@@ -24,7 +24,7 @@ At the same time, I try to finish what I started. Evidence of this is the comple
 ---
 
 **Skills and Profiency:**
-* HTML, CSS
+* JS, HTML, CSS, SASS, BEM
 * C++ Basics
 * Git, GitHub
 
@@ -63,7 +63,11 @@ string replaceSubString(string arrstr[], int numStr, string subStr, string repla
 A website that I created to practice html and css.
 
 * [Website](https://naninanina.github.io/Painting-1920-1930/)
-* [GitGub repository](https://github.com/Naninanina/Painting-1920-1930)
+* [GitHub repository](https://github.com/Naninanina/Painting-1920-1930)
+
+A website that I made at RS school courses
+
+* [Website]https://rolling-scopes-school.github.io/naninanina-JSFE2022Q1/shelter/
 
 ---
 
