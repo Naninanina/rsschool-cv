@@ -67,7 +67,7 @@ A website that I created to practice html and css.
 
 A website that I made at RS school courses
 
-* [Website]https://rolling-scopes-school.github.io/naninanina-JSFE2022Q1/shelter/
+* [Website](https://rolling-scopes-school.github.io/naninanina-JSFE2022Q1/shelter/)
 
 ---
 
